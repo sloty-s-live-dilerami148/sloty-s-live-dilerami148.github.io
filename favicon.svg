@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="11" fill="#1c1e22"/>
+  <circle cx="24" cy="24" r="13" fill="none" stroke="#e0a24a" stroke-width="2.4"/>
+  <line x1="15" y1="33" x2="33" y2="15" stroke="#e0a24a" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="24" y="29" text-anchor="middle" font-family="Lora,Georgia,serif" font-weight="700" font-size="15" fill="#f4f4f2">live</text>
+</svg>

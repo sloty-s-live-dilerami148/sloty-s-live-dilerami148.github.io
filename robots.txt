@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sloty-s-live-dilerami148.github.io/sitemap.xml
